@@ -1,2 +1,4 @@
-# Fantasy
-**Please for the love of God do not check the codes**, you'll most likely *not* to survive, and even if you do, you'll gain *several mental illnesses*.
+# FantasyJump
+
+Literary school assignment (yeah, not so literary-ish now is it?) back when I was a 7th grade student.
+The quality of the code here does *not* reflect my current skills.
